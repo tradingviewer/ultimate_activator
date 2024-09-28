@@ -33,6 +33,6 @@ Get the most advanced and expensive TradingView subscription absolutely free of 
 - Tick-based intervals (BETA)
 
 ```
-Latest Version: 1.2
-Release date: 26-Sep-2024
+Latest Version: 1.3
+Release date: 28-Sep-2024
 ```
